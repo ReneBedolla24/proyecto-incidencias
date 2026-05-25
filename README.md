@@ -41,3 +41,11 @@ Incluye:
 - Dataset limpio
 - Dashboard en Power BI (.pbix)
 - Documentación del análisis
+
+## 📊 Dashboard de Incidencias
+
+### 📥 Descargar versión completa
+[Ver Dashboard en PDF](dashboard.pdf)
+
+### 📸 Vista previa
+![Dashboard](dashboard.png)
