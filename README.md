@@ -42,10 +42,16 @@ Incluye:
 - Dashboard en Power BI (.pbix)
 - Documentación del análisis
 
-## 📊 Dashboard de Incidencias
+## 📊 Dashboard
 
-### 📥 Descargar versión completa
-[Ver Dashboard en PDF](dashboard.pdf)
+### Página 1
+![Pagina1](pagina1.png)
 
-### 📸 Vista previa
-![Dashboard](dashboard.png)
+### Página 2
+![Pagina2](pagina2.png)
+
+### Página 3
+![Pagina3](pagina3.png)
+
+### 📥 Descargar completo
+[Descargar PDF](dashboard.pdf)
