@@ -45,13 +45,13 @@ Incluye:
 ## Dashboard
 
 ### Página 1
-![Pagina1](pagina1.png)
+![Pagina1](./5_dashboard_export/pagina1.png)
 
 ### Página 2
-![Pagina2](pagina2.png)
+![Pagina2](./5_dashboard_export/pagina2.png)
 
 ### Página 3
-![Pagina3](pagina3.png)
+![Pagina3](./5_dashboard_export/pagina3.png)
 
 ### 📥 Descargar completo
-[Descargar PDF](dashboard.pdf)
+[Descargar PDF](./5_dashboard_export/dashboard.pdf)
