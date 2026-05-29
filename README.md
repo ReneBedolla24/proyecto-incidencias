@@ -1,10 +1,10 @@
-# 📊 Proyecto de Análisis de Incidencias
+# Proyecto de Análisis de Incidencias
 
 Este proyecto analiza incidencias del área de sistemas con el objetivo de identificar patrones y generar recomendaciones para mejorar el soporte técnico.
 
 ---
 
-## 🔧 Herramientas utilizadas
+## Herramientas utilizadas
 
 - Excel (limpieza de datos)
 - SQL (exploración)
@@ -12,7 +12,7 @@ Este proyecto analiza incidencias del área de sistemas con el objetivo de ident
 
 ---
 
-## 📈 Dashboard
+## Dashboard
 
 El dashboard fue estructurado en tres niveles:
 
@@ -28,7 +28,7 @@ Incluye:
 
 ---
 
-## 🧠 Insights clave
+## Insights clave
 
 - Alta recurrencia en incidencias relacionadas con impresoras
 - Mayor carga operativa en áreas específicas
@@ -36,13 +36,13 @@ Incluye:
 
 ---
 
-## 📁 Archivos del proyecto
+## Archivos del proyecto
 
 - Dataset limpio
 - Dashboard en Power BI (.pbix)
 - Documentación del análisis
 
-## 📊 Dashboard
+## Dashboard
 
 ### Página 1
 ![Pagina1](pagina1.png)
