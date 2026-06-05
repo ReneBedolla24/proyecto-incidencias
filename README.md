@@ -12,6 +12,55 @@ Este proyecto analiza incidencias del área de sistemas con el objetivo de ident
 
 ---
 
+## SQL Queries destacadas
+
+### Top 5 problemas más comunes
+
+```sql
+SELECT 
+    tipo_problema,
+    COUNT(tipo_problema) AS total
+FROM eventos
+GROUP BY tipo_problema
+ORDER BY total DESC 
+LIMIT 5;
+```
+
+Identifica los cinco tipos de problemas más frecuentes, permitiendo priorizar acciones de mejora en los incidentes más recurrentes.
+
+---
+
+### Tiempo promedio de resolución por categoría
+
+```sql
+SELECT 
+    categoria,
+    COUNT(*) AS total_casos,
+    ROUND(AVG(tiempo_resolucion), 2) AS promedio_resolucion
+FROM eventos
+GROUP BY categoria
+ORDER BY promedio_resolucion DESC;
+```
+
+Calcula el tiempo promedio de resolución por categoría junto con el volumen de casos, facilitando la detección de áreas con mayor complejidad operativa.
+
+---
+
+### Incidencias por área
+
+```sql
+SELECT 
+    area,
+    COUNT(*) AS total_incidencias
+FROM eventos
+GROUP BY area
+ORDER BY total_incidencias DESC;
+```
+
+Muestra la cantidad de incidencias por área, ayudando a identificar qué departamentos concentran mayor carga de trabajo o presentan más problemas.
+
+---
+
 ## Dashboard
 
 El dashboard fue estructurado en tres niveles:
